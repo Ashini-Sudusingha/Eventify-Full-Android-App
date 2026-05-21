@@ -36,7 +36,15 @@ Here is a comprehensive visual showcase of the **Eventify** application ecosyste
 | :---: | :---: |
 | <img src="screenshots/09_payment_approved_payhere.png" width="220" alt="Payment Approved"/> <br/> *PayHere Sandbox Integration* | <img src="screenshots/10_google_maps_picker.png" width="220" alt="Location Picker"/> <br/> *Integrated Google Map Picker* |
 
----
+### 📊 3. Advanced Guest Invitation & Budget Analysis
+
+| 11. Guest Invitation & QR Ticket | 12. Budget Map & Expense Tracker |
+| :---: | :---: |
+| <img src="screenshots/11_email_invitation_ticket.png" width="220" alt="Invitation Ticket Email"/> <br/> *QR Ticket Guest Invitation* | <img src="screenshots/12_budget_map_tracker.png" width="220" alt="Budget map tracker"/> <br/> *Interactive Visual Budget Tool* |
+
+| 13. Partner Portal Welcome | 14. In-App Verification Prompt |
+| :---: | :---: |
+| <img src="screenshots/13_partner_sign_in.png" width="220" alt="Partner Sign In"/> <br/> *Custom Partner Portal Hub* | <img src="screenshots/14_app_email_verification_prompt.png" width="220" alt="Verification Prompt"/> <br/> *Verification Step Guide* |
 
 ---
 
@@ -163,7 +171,11 @@ Ashini 200450311681 Project/
 │   ├── 07_create_event_form.png
 │   ├── 08_event_management_dashboard.png
 │   ├── 09_payment_approved_payhere.png
-│   └── 10_google_maps_picker.png
+│   ├── 10_google_maps_picker.png
+│   ├── 11_email_invitation_ticket.png
+│   ├── 12_budget_map_tracker.png
+│   ├── 13_partner_sign_in.png
+│   └── 14_app_email_verification_prompt.png
 │
 ├── .gitignore                               # Global Git configuration (Android, Spring Boot, IDE files)
 └── README.md                                # Official Project Documentation (This file)
