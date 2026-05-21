@@ -14,7 +14,9 @@ Eventify is an enterprise-grade, modern, and robust multi-application ecosystem 
 
 ## 📱 App Walkthrough & User Interface
 
-Here is a visual showcase of the **Eventify** client application, featuring smooth user registration, secure authentication, validation frameworks, and native system-level status detection.
+Here is a comprehensive visual showcase of the **Eventify** application ecosystem, illustrating the user onboarding flows, real-time networking checks, interactive planning modules, transaction handling, and location services.
+
+### 🔐 1. Authentication, Onboarding & Error Handling
 
 | 01. Splash Screen | 02. Sign In Screen | 03. Validation Error Handling |
 | :---: | :---: | :---: |
@@ -23,6 +25,18 @@ Here is a visual showcase of the **Eventify** client application, featuring smoo
 | 04. Offline Tolerance Dialog | 05. Sign Up Screen |
 | :---: | :---: |
 | <img src="screenshots/04_no_internet_connection.png" width="220" alt="No Internet Alert"/> <br/> *Real-Time Network Monitor* | <img src="screenshots/05_sign_up.png" width="220" alt="Sign Up"/> <br/> *Onboarding & Password Match* |
+
+### 📧 2. Email Verification & Event Management Workflows
+
+| 06. Email Verification Template | 07. Create Event Form | 08. Event Dashboard |
+| :---: | :---: | :---: |
+| <img src="screenshots/06_email_verification_template.png" width="220" alt="Email Verification Template"/> <br/> *SMTP Transaction Email* | <img src="screenshots/07_create_event_form.png" width="220" alt="Create Event Form"/> <br/> *Interactive Form Fields* | <img src="screenshots/08_event_management_dashboard.png" width="220" alt="Event Dashboard"/> <br/> *Budget & Guest Counters* |
+
+| 09. PayHere Sandbox Success | 10. Google Maps Location Picker |
+| :---: | :---: |
+| <img src="screenshots/09_payment_approved_payhere.png" width="220" alt="Payment Approved"/> <br/> *PayHere Sandbox Integration* | <img src="screenshots/10_google_maps_picker.png" width="220" alt="Location Picker"/> <br/> *Integrated Google Map Picker* |
+
+---
 
 ---
 
@@ -144,7 +158,12 @@ Ashini 200450311681 Project/
 │   ├── 02_sign_in.png
 │   ├── 03_sign_in_validation.png
 │   ├── 04_no_internet_connection.png
-│   └── 05_sign_up.png
+│   ├── 05_sign_up.png
+│   ├── 06_email_verification_template.png
+│   ├── 07_create_event_form.png
+│   ├── 08_event_management_dashboard.png
+│   ├── 09_payment_approved_payhere.png
+│   └── 10_google_maps_picker.png
 │
 ├── .gitignore                               # Global Git configuration (Android, Spring Boot, IDE files)
 └── README.md                                # Official Project Documentation (This file)
