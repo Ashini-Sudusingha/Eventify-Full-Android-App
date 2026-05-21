@@ -1,0 +1,99 @@
+# ====================================================================
+# Global .gitignore for Eventify Final Year Project
+# Handles Android Apps (Client & Partner) and Spring Boot Backend
+# ====================================================================
+
+# --------------------------------------------------------------------
+# Operating System & IDE Files
+# --------------------------------------------------------------------
+# OS-specific files
+Thumbs.db
+db.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# JetBrains / Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+out/
+cmake-build-*/
+.cxx/
+.externalNativeBuild/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+*.launch
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# --------------------------------------------------------------------
+# Android / Gradle specific files (Eventify & EventifyPartner)
+# --------------------------------------------------------------------
+.gradle/
+**/build/
+**/captures/
+**/local.properties
+**/GeneratedPhoneTemplates.xml
+**/proguard/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Keystore files (should never be committed to Git)
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Crashlytics & Firebase cache
+.crashlytics/
+crashlytics-build.properties
+
+# --------------------------------------------------------------------
+# Java / Maven / Spring Boot specific files (eventify-springboot)
+# --------------------------------------------------------------------
+**/target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Log files
+*.log
+**/logs/
+
+# Firebase private key (Keep private, load from environment in prod)
+**/firebase-service-account.json
+**/google-services.json
+
+
+# --------------------------------------------------------------------
+# Local Developer Configuration Overrides
+# --------------------------------------------------------------------
+.env
+.env.local
+.env.*.local
+*.user
+
+# --------------------------------------------------------------------
+# Temporarily ignore Android Client and Partner apps for Viva Phase
+# --------------------------------------------------------------------
+/Eventify/
+/EventifyPartner/
+
+

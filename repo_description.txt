@@ -1,0 +1,23 @@
+# Eventify - Git Repository Description Options
+
+Here are high-quality options for your GitHub/GitLab repository description. You can copy and paste the one that best suits your requirements.
+
+---
+
+### Option 1: Premium & Academic (Highly Recommended for Final Year Evaluation)
+> A comprehensive multi-application event planning and management ecosystem featuring a native Android client app, a partner/vendor Android app, and an optimized Spring Boot microservice backend. Integrates Firebase, Google Maps API, PayHere Payment Gateway, Cloudinary CDN, JWT, and ZXing QR ticket verification.
+
+---
+
+### Option 2: Short, Concise & Punchy (Perfect for the GitHub "Description" field)
+> Eventify is a robust event management ecosystem with native Android client & vendor apps (Java) backed by a Spring Boot email & verification microservice. Features Firebase, PayHere payments, Google Maps, Cloudinary, and QR ticketing.
+
+---
+
+### Option 3: Tech-Stack & Architecture Focused
+> A Java-based multi-app event booking platform. Built with native Android (Java/MVVM), Spring Boot (Java 17/Maven) API engine, Firebase (Firestore & Auth), Google Places/Maps API, PayHere Gateway, Cloudinary CDN, and secure JWT-based SMTP verification.
+
+---
+
+### Option 4: Sinhala/Bilingual Friendly (For local presentation / Sinhala references)
+> Eventify යනු පාරිභෝගිකයින් සහ සේවා සපයන්නන් (Vendors) සම්බන්ධ කරන සර්වසම්පූර්ණ උත්සව කළමනාකරණ පද්ධතියකි (Event Management Ecosystem). Native Android apps සහ Spring Boot backend එකකින් සමන්විත වන අතර PayHere, Google Maps, Cloudinary, සහ Firebase තාක්ෂණයන් භාවිත කර ඇත.
